@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cochran.ParameterizedTests", "Cochran.ParameterizedTests\Cochran.ParameterizedTests.csproj", "{BDEA7AE6-5255-41BB-B525-2284FB4E1C21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{1890E381-C242-467F-8921-FF52097EB9F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDEA7AE6-5255-41BB-B525-2284FB4E1C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEA7AE6-5255-41BB-B525-2284FB4E1C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEA7AE6-5255-41BB-B525-2284FB4E1C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEA7AE6-5255-41BB-B525-2284FB4E1C21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1890E381-C242-467F-8921-FF52097EB9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1890E381-C242-467F-8921-FF52097EB9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1890E381-C242-467F-8921-FF52097EB9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1890E381-C242-467F-8921-FF52097EB9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
